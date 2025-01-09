@@ -1,0 +1,5 @@
+The MNIST Handwritten Digit Recognition Dataset contains 60,000 training and 10,000 testing labelled handwritten digit pictures.
+Each picture is 28 pixels in height and 28 pixels wide, for a total of 784 (28×28) pixels. Each pixel has a single pixel value associated with it. 
+It indicates how bright or dark that pixel is (larger numbers indicates darker pixel). This pixel value is an integer ranging from 0 to 255.
+
+You can find the dataset here : [https://www.kaggle.com/code/ngbolin/mnist-dataset-digit-recognizer]
