@@ -1,0 +1,7 @@
+Handwritten-Digit-Recognition/
+│
+├── train.py
+├── evaluate.py
+├── utils.py
+├── README.md
+└── requirements.txt
