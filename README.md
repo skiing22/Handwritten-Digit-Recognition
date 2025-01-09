@@ -62,6 +62,15 @@ Implement additional hidden layers for better accuracy.
 Use dropout for further regularization.
 Experiment with advanced optimizers like Adam or RMSProp.
 
+## Contributing
+Contributions are welcome! If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+## Contact
+For questions or feedback, please reach out to:
+
+GitHub: skiing22
+Email: ramolashubham02@gmail.com
+
 ## Results
 Achieved an accuracy of 92% on the test set after 70 iterations.
 
