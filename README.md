@@ -73,7 +73,7 @@ GitHub: skiing22
 Email: ramolashubham02@gmail.com
 
 ## Results
-Achieved an accuracy of 92% on the test set after 70 iterations.
+Achieved an accuracy of 98% on the test set after 70 iterations.
 
 ## License
 This project is licensed under the MIT License.
